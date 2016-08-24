@@ -20,9 +20,9 @@
         <div class="bg_subnav"></div>
     </li>
     <li class="area sub" id="li_perform">
-        <a href="performing-arts-main-level.php">Sciences building</a>
+        <a href="sciences-building-main-level.php">Sciences building</a>
         <ul class="submenu">
-            <li><a href="performing-arts-exterior.php">Level 1</a></li>
+            <li><a href="sciences-building-main-level.php">Level 1</a></li>
             <li><a href="performing-arts-main-level.php">Level 2</a></li>
         </ul>
         <div class="bg_subnav"></div>
