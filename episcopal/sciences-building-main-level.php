@@ -6,7 +6,7 @@
     <script type="text/javascript">
 
         // current background image located on images/floorplans/[big-medium-small]
-        current_bg_name = 'main-level';            
+        current_bg_name = 'sciences-building-main-level';            
 
         var AreasSettingsList = 
             [
