@@ -5,7 +5,7 @@
             <i class="fa fa-bars fa-2x"></i>
         </a>
         <div class="_r">
-            <div class="_2">
+            <div class="_3">
                 <div class="outerContent">
                     <div class="innerContent">
                         <a href="index.php">
@@ -16,7 +16,7 @@
                     </div>
                 </div>
             </div>
-            <div class="_8">
+            <div class="_7">
                 <?php include('menu.php'); ?>                
             </div>
             <div class="_2 social">
