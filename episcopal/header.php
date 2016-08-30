@@ -20,8 +20,8 @@
                 <?php include('menu.php'); ?>                
             </div>
             <div class="_2 social">
-                <a target="_blank" href="https://www.facebook.com/GreenhillSchool" class="twit"></a>
-                <a target="_blank" href="https://www.twitter.com/GreenhillSchool/" class="face"></a>
+                <a target="_blank" href="http://www.facebook.com/esdallas" class="twit"></a>
+                <a target="_blank" href="https://twitter.com/episcopaldallas" class="face"></a>
             </div>
         </div>
     </div>

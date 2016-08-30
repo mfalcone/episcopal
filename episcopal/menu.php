@@ -23,7 +23,7 @@
         <a href="sciences-building-main-level.php">Sciences building</a>
         <ul class="submenu">
             <li><a href="sciences-building-main-level.php">Level 1</a></li>
-            <li><a href="performing-arts-main-level.php">Level 2</a></li>
+            <li><a href="sciences-building-second-level.php">Level 2</a></li>
         </ul>
         <div class="bg_subnav"></div>
     </li>
