@@ -16,7 +16,7 @@
                     //==================================
                     name        : '1',
                     naming_opp  : 'cafeteria-building/b.bookstore.html',
-                    external_link: 'performing-arts-main-level.php',
+                    external_link: 'sciences-building-main-level.php',
                     pointer_pos : [1397.4, 350.2],
                     sceneFunc: function(ctx) 
                     {
@@ -48,7 +48,7 @@
                     // Tooltip settings
                     //==================================
                     tooltip     : {                
-                        text: 'Sciences Building',
+                        text: 'Integrated Sciences and Design Center',
                         fontSize: 14,                         
                         align: 'center'            
                     }        
@@ -180,7 +180,7 @@
                     // Tooltip settings
                     //==================================
                     tooltip     : {                
-                        text: 'Lower school',
+                        text: 'Lower School',
                         fontSize: 14,                         
                         align: 'center'            
                     }        

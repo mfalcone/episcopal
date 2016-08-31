@@ -159,41 +159,12 @@
 						align: 'center'            
 					}        
 				},
+				
 				{
 					//==================================
 					// Basic settings
 					//==================================
-					name        : 'H-1',
-					naming_opp  : 'science-builder-level-two/h.flex-classrooms-Labs.html',
-					pointer_pos : [600.9, 777.8],
-					first_point : [693.8, 167.7],
-					sceneFunc: function(ctx) 
-					{
-						ctx.moveTo(549.5,718.488);
-						ctx.lineTo(649.5,718.332);
-						ctx.lineTo(649.5,839.609);
-						ctx.lineTo(549.5,840.074);
-						ctx.lineTo(549.5,718.488);
-					}
-						,
-					fill        : 'rgba(170,255,0,0.3)',
-					stroke      : '#456800',
-					strokeWidth : 1,       
-
-					//==================================
-					// Tooltip settings
-					//==================================
-					tooltip     : {                
-						text: 'Flex Classrooms/Labs',
-						fontSize: 12,                         
-						align: 'center'            
-					}        
-				},
-				{
-					//==================================
-					// Basic settings
-					//==================================
-					name        : 'H-1',
+					name        : 'H-2',
 					naming_opp  : 'science-builder-level-two/h.flex-classrooms-Labs.html',
 					pointer_pos : [846.9, 777.8],
 					first_point : [693.8, 167.7],
@@ -215,6 +186,128 @@
 					//==================================
 					tooltip     : {                
 						text: 'Flex Classrooms/Labs',
+						fontSize: 12,                         
+						align: 'center'            
+					}        
+				},
+				{
+					//==================================
+					// Basic settings
+					//==================================
+					name        : 'M',
+					naming_opp  : 'science-builder-level-two/m.environmental-space-and-general-science.html',
+					pointer_pos : [730.9, 777.8],
+					first_point : [693.8, 167.7],
+					sceneFunc: function(ctx) 
+					{
+						ctx.moveTo(649.5,717.5);
+						ctx.lineTo(796.031,718.581);
+						ctx.lineTo(796.5,824.5);
+						ctx.lineTo(649.5,824.5);
+						ctx.lineTo(649.5,717.5);
+					}
+						,
+					fill        : 'rgba(170,255,0,0.3)',
+					stroke      : '#456800',
+					strokeWidth : 1,       
+
+					//==================================
+					// Tooltip settings
+					//==================================
+					tooltip     : {                
+						text: 'Environmental, Space, and General Science (Fifth Grade Lab)',
+						fontSize: 12,                         
+						align: 'center'            
+					}        
+				},
+				{
+					//==================================
+					// Basic settings
+					//==================================
+					name        : 'N',
+					naming_opp  : 'science-builder-level-two/n.life-science.html',
+					pointer_pos : [970.9, 777.8],
+					first_point : [693.8, 167.7],
+					sceneFunc: function(ctx) 
+					{
+						ctx.moveTo(898.5,718.5);
+						ctx.lineTo(1045.067,718.879);
+						ctx.lineTo(1045.5,825.5);
+						ctx.lineTo(898.5,825.5);
+						ctx.lineTo(898.5,718.5);
+					}
+						,
+					fill        : 'rgba(170,255,0,0.3)',
+					stroke      : '#456800',
+					strokeWidth : 1,       
+
+					//==================================
+					// Tooltip settings
+					//==================================
+					tooltip     : {                
+						text: 'Life Science (Sixth Grade Lab)',
+						fontSize: 12,                         
+						align: 'center'            
+					}        
+				},
+				{
+					//==================================
+					// Basic settings
+					//==================================
+					name        : 'R',
+					naming_opp  : 'science-builder-level-two/r.idea-lounge.html',
+					pointer_pos : [1120.9, 795.8],
+					first_point : [693.8, 167.7],
+					sceneFunc: function(ctx) 
+					{
+						ctx.moveTo(1046.5,737.5);
+						ctx.lineTo(1090.5,737.5);
+						ctx.lineTo(1090.5,766.5);
+						ctx.lineTo(1201.5,766.5);
+						ctx.lineTo(1201.5,836.5);
+						ctx.lineTo(1046.5,836.5);
+						ctx.lineTo(1046.5,737.5);
+					}
+						,
+					fill        : 'rgba(170,255,0,0.3)',
+					stroke      : '#456800',
+					strokeWidth : 1,       
+
+					//==================================
+					// Tooltip settings
+					//==================================
+					tooltip     : {                
+						text: 'Idea Lounge (Middle School)',
+						fontSize: 12,                         
+						align: 'center'            
+					}        
+				},
+				{
+					//==================================
+					// Basic settings
+					//==================================
+					name        : 'S',
+					naming_opp  : 'science-builder-level-two/s.teacher-workrooms.html',
+					pointer_pos : [1140.9, 740.8],
+					first_point : [693.8, 167.7],
+					sceneFunc: function(ctx) 
+					{
+						ctx.moveTo(1091.5,717.5);
+						ctx.lineTo(1202.174,717.926);
+						ctx.lineTo(1202.5,767.5);
+						ctx.lineTo(1091.5,767.5);
+						ctx.lineTo(1091.5,717.5);
+					}
+						,
+					fill        : 'rgba(170,255,0,0.3)',
+					stroke      : '#456800',
+					strokeWidth : 1,       
+
+					//==================================
+					// Tooltip settings
+					//==================================
+					tooltip     : {                
+						text: 'Teacher Workrooms',
 						fontSize: 12,                         
 						align: 'center'            
 					}        
