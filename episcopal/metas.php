@@ -1,6 +1,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<title>Episcopal School of Dallas</title>
+<title>Togethe, We Will</title>
 
 <!-- Mobile Specific Metas -->
 <!--meta name="viewport" content="width=device-width, initial-scale=1" /--> 

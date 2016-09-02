@@ -4448,10 +4448,10 @@ ul.nav li a {
   line-height: 79px;
 }
 ul.nav li.area a {
-  color: #b4cfec;
+  color: #6cace4;
 }
 ul.nav li:hover, ul.nav li.active {
-  background: #b4cfec;
+  background: #6cace4;
 }
 ul.nav li:hover a, ul.nav li.active a {
   color: #242424;
@@ -4464,7 +4464,7 @@ ul.nav li:hover .bg_subnav, ul.nav li.active .bg_subnav {
   display: block;
 }
 ul.nav li .bg_subnav {
-  background-color: #b4cfec;
+  background-color: #6cace4;
   position: fixed;
   top: 76px;
   height: 37px;
@@ -4477,7 +4477,7 @@ ul.nav li .bg_subnav {
 ul.nav li ul.submenu {
   z-index: 2;
   display: none;
-  background-color: #b4cfec;
+  background-color: #6cace4;;
   text-align: center;
   position: absolute;
   right: 1px;
