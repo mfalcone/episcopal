@@ -20,10 +20,10 @@
         <div class="bg_subnav"></div>
     </li>
     <li class="area" id="li_cafeteria">
-        <a href="dining-hall.php">Lower school</a>
+        <a href="lower-school-main-level.php">Lower school</a>
         <ul class="submenu">
-            <li><a href="gallery-dining-hall.php">Level 1</a></li>
-            <li><a href="dining-hall.php">Level 2</a></li>
+            <li><a href="lower-school-main-level.php">Level 1</a></li>
+            <li><a href="lower-school-second-level.php">Level 2</a></li>
         </ul>
         <div class="bg_subnav"></div>
     </li>                            
