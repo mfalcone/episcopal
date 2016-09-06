@@ -42,7 +42,7 @@
 					// Basic settings
 					//==================================
 					name        : 'G-0',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'science-builder-level-one/j.chemistry-labso.html',
 					pointer_pos : [350.9, 340],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -74,7 +74,7 @@
 					// Basic settings
 					//==================================
 					name        : 'G-1',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'science-builder-level-one/j.chemistry-labso.html',
 					pointer_pos : [505.9, 425],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -104,7 +104,7 @@
 					// Basic settings
 					//==================================
 					name        : 'G-2',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'science-builder-level-one/j.chemistry-labso.html',
 					pointer_pos : [515.9, 495],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -263,7 +263,7 @@
 					//==================================
 					name        : 'Q-4',
 					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
-					pointer_pos : [1072, 425],
+					pointer_pos : [1065, 425],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
 					{
@@ -273,6 +273,132 @@
 						ctx.lineTo(1077,457);
 						ctx.lineTo(1040,457);
 						ctx.lineTo(1039,401);
+					}
+						,
+					fill        : 'rgba(170,255,0,0.3)',
+					stroke      : '#EA7D1A',
+					strokeWidth : 1,       
+
+					//==================================
+					// Tooltip settings
+					//==================================
+					tooltip     : {                
+						text: 'Grade Level Classroom ',
+						fontSize: 12,                         
+						align: 'center'            
+					}        
+				}    ,
+				{
+					//==================================
+					// Basic settings
+					//==================================
+					name        : 'Q-5',
+					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					pointer_pos : [1065, 500],
+					first_point : [693.8, 167.7],
+					sceneFunc: function(ctx) 
+					{
+						ctx.moveTo(1039,459);
+						ctx.lineTo(1077,459);
+						ctx.lineTo(1098.5,492.903);
+						ctx.lineTo(1098.5,530.5);
+						ctx.lineTo(1039.216,530.598);
+						ctx.lineTo(1039,459);
+					}
+						,
+					fill        : 'rgba(170,255,0,0.3)',
+					stroke      : '#EA7D1A',
+					strokeWidth : 1,       
+
+					//==================================
+					// Tooltip settings
+					//==================================
+					tooltip     : {                
+						text: 'Grade Level Classroom ',
+						fontSize: 12,                         
+						align: 'center'            
+					}        
+				}    , 
+				{
+					//==================================
+					// Basic settings
+					//==================================
+					name        : 'Q-6',
+					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					pointer_pos : [1170, 460],
+					first_point : [693.8, 167.7],
+					sceneFunc: function(ctx) 
+					{
+						ctx.moveTo(1140.415,425);
+						ctx.lineTo(1197.5,425);
+						ctx.lineTo(1197.5,498);
+						ctx.lineTo(1163,498);
+						ctx.lineTo(1140.005,459.715);
+						ctx.lineTo(1140.415,425);
+						
+					}
+						,
+					fill        : 'rgba(170,255,0,0.3)',
+					stroke      : '#EA7D1A',
+					strokeWidth : 1,       
+
+					//==================================
+					// Tooltip settings
+					//==================================
+					tooltip     : {                
+						text: 'Grade Level Classroom ',
+						fontSize: 12,                         
+						align: 'center'            
+					}        
+				}    , 
+				{
+					//==================================
+					// Basic settings
+					//==================================
+					name        : 'Q-7',
+					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					pointer_pos : [1170, 530],
+					first_point : [693.8, 167.7],
+					sceneFunc: function(ctx) 
+					{
+						ctx.moveTo(1162,497);
+						ctx.lineTo(1198.5,497);
+						ctx.lineTo(1198.5,556);
+						ctx.lineTo(1123,556);
+						ctx.lineTo(1124.846,521.173);
+						ctx.lineTo(1162,497);
+						
+					}
+						,
+					fill        : 'rgba(170,255,0,0.3)',
+					stroke      : '#EA7D1A',
+					strokeWidth : 1,       
+
+					//==================================
+					// Tooltip settings
+					//==================================
+					tooltip     : {                
+						text: 'Grade Level Classroom ',
+						fontSize: 12,                         
+						align: 'center'            
+					}        
+				}    , 
+				{
+					//==================================
+					// Basic settings
+					//==================================
+					name        : 'Q-8',
+					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					pointer_pos : [1315, 460],
+					first_point : [693.8, 167.7],
+					sceneFunc: function(ctx) 
+					{
+						ctx.moveTo(1286,425);
+						ctx.lineTo(1345.5,425);
+						ctx.lineTo(1345.5,460.5);
+						ctx.lineTo(1323.559,498);
+						ctx.lineTo(1287,498);
+						ctx.lineTo(1286,425);
 					}
 						,
 					fill        : 'rgba(170,255,0,0.3)',
