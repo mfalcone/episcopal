@@ -13,7 +13,7 @@
 			   //TITLE 2,500,000
 				{
 					name        : '101',
-					naming_opp  : 'science-builder-level-one/main-2500000.html',
+					naming_opp  : 'lower-level-one/main-2500000.html',
 					pointer_pos : [9999, 9999],
 					first_point : [9999, 9999],
 					sceneFunc: function(ctx) 
@@ -42,7 +42,7 @@
 					// Basic settings
 					//==================================
 					name        : 'G-0',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labso.html',
+					naming_opp  : 'lower-level-one/gymnasium.html',
 					pointer_pos : [350.9, 340],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -74,7 +74,7 @@
 					// Basic settings
 					//==================================
 					name        : 'G-1',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labso.html',
+					naming_opp  : 'lower-level-one/gymnasium.html',
 					pointer_pos : [505.9, 425],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -104,7 +104,7 @@
 					// Basic settings
 					//==================================
 					name        : 'G-2',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labso.html',
+					naming_opp  : 'lower-level-one/gymnasium.html',
 					pointer_pos : [515.9, 495],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -138,7 +138,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-0',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [665.9, 455],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -169,7 +169,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-1',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [815.9, 455],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -200,7 +200,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-2',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [815.9, 525],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -231,7 +231,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-3',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [665.9, 525],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -262,7 +262,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-4',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1065, 425],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -293,7 +293,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-5',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1065, 500],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -324,7 +324,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-6',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1170, 460],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -356,7 +356,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-7',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1170, 530],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -388,7 +388,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-8',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1315, 460],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -419,7 +419,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-9',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1410, 430],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -450,7 +450,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-10',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1420, 500],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -481,7 +481,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-11',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1325, 530],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -512,7 +512,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-12',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1420, 685],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -543,7 +543,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-13',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1415, 750],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -574,7 +574,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-14',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1320, 650],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -605,7 +605,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-15',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1315, 720],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -636,7 +636,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-16',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1165, 650],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -667,7 +667,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-17',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1175, 720],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -699,7 +699,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-18',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1065, 680],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -730,7 +730,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-19',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [1065, 750],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -761,7 +761,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-20',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [680, 645],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -792,7 +792,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-21',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [690, 725],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -823,7 +823,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-22',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [540, 725],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -854,7 +854,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-23',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [540, 645],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -886,7 +886,7 @@
 					// Basic settings
 					//==================================
 					name        : 'Q-24',
-					naming_opp  : 'science-builder-level-one/j.chemistry-labs.html',
+					naming_opp  : 'lower-level-one/grade-level-classroom.html',
 					pointer_pos : [615, 755],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -908,6 +908,130 @@
 					//==================================
 					tooltip     : {                
 						text: 'Grade Level Classroom ',
+						fontSize: 12,                         
+						align: 'center'            
+					}
+				},
+				{
+					//==================================
+					// Basic settings
+					//==================================
+					name        : 'F',
+					naming_opp  : 'lower-level-one/actor-stage.html',
+					pointer_pos : [252, 600],
+					first_point : [693.8, 167.7],
+					sceneFunc: function(ctx) 
+					{
+						ctx.moveTo(220,547);
+						ctx.lineTo(283.5,547);
+						ctx.lineTo(283.5,662);
+						ctx.lineTo(220.998,662);
+						ctx.lineTo(220,547);
+						
+					}
+						,
+					fill        : 'rgba(170,255,0,0.3)',
+					stroke      : '#EA7D1A',
+					strokeWidth : 1,       
+
+					//==================================
+					// Tooltip settings
+					//==================================
+					tooltip     : {                
+						text: 'Actor’s Stage',
+						fontSize: 12,                         
+						align: 'center'            
+					}
+				},
+				{
+					//==================================
+					// Basic settings
+					//==================================
+					name        : 'C',
+					naming_opp  : 'lower-level-one/dining-commons.html',
+					pointer_pos : [350, 580],
+					first_point : [693.8, 167.7],
+					sceneFunc: function(ctx) 
+					{
+						ctx.moveTo(284,484.5);
+						ctx.lineTo(425,484.5);
+						ctx.lineTo(425,682.5);
+						ctx.lineTo(286.215,682.5);
+						ctx.lineTo(284,484.5);
+						
+					}
+						,
+					fill        : 'rgba(170,255,0,0.3)',
+					stroke      : '#EA7D1A',
+					strokeWidth : 1,       
+
+					//==================================
+					// Tooltip settings
+					//==================================
+					tooltip     : {                
+						text: 'Dining Commons',
+						fontSize: 12,                         
+						align: 'center'            
+					}
+				},
+				{
+					//==================================
+					// Basic settings
+					//==================================
+					name        : 'A',
+					naming_opp  : 'lower-level-one/chapel.html',
+					pointer_pos : [880, 680],
+					first_point : [693.8, 167.7],
+					sceneFunc: function(ctx) 
+					{
+						ctx.moveTo(808,609.5);
+						ctx.lineTo(952,609.5);
+						ctx.lineTo(952,751.5);
+						ctx.lineTo(810.267,751.5);
+						ctx.lineTo(808,609.5);
+						
+					}
+						,
+					fill        : 'rgba(170,255,0,0.3)',
+					stroke      : '#EA7D1A',
+					strokeWidth : 1,       
+
+					//==================================
+					// Tooltip settings
+					//==================================
+					tooltip     : {                
+						text: 'Chapel',
+						fontSize: 12,                         
+						align: 'center'            
+					}
+				},
+				{
+					//==================================
+					// Basic settings
+					//==================================
+					name        : 'B',
+					naming_opp  : 'lower-level-one/chapel-garden.html',
+					pointer_pos : [1000, 710],
+					first_point : [693.8, 167.7],
+					sceneFunc: function(ctx) 
+					{
+						ctx.moveTo(953,651.5);
+						ctx.lineTo(1041,651.5);
+						ctx.lineTo(1041,778.5);
+						ctx.lineTo(954.386,778.5);
+						ctx.lineTo(953,651.5);
+						
+					}
+						,
+					fill        : 'rgba(170,255,0,0.3)',
+					stroke      : '#EA7D1A',
+					strokeWidth : 1,       
+
+					//==================================
+					// Tooltip settings
+					//==================================
+					tooltip     : {                
+						text: 'Chapel Garden',
 						fontSize: 12,                         
 						align: 'center'            
 					}
