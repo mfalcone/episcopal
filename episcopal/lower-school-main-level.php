@@ -30,7 +30,7 @@
 					// Tooltip settings
 					//==================================
 					tooltip     : {                
-						text: '<span>$5,000,000</span>',
+						text: '<span>$2,000,000</span>',
 						fontSize: 1,
 						align: 'center'            
 					}        
@@ -42,7 +42,7 @@
 					// Basic settings
 					//==================================
 					name        : 'G-0',
-					naming_opp  : 'lower-level-one/gymnasium.html',
+					naming_opp  : 'lower-level-one/gymnasium.html',//2.000.000
 					pointer_pos : [350.9, 340],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -74,7 +74,7 @@
 					// Basic settings
 					//==================================
 					name        : 'G-1',
-					naming_opp  : 'lower-level-one/gymnasium.html',
+					naming_opp  : 'lower-level-one/gymnasium.html',//2.000.000
 					pointer_pos : [505.9, 425],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -104,7 +104,7 @@
 					// Basic settings
 					//==================================
 					name        : 'G-2',
-					naming_opp  : 'lower-level-one/gymnasium.html',
+					naming_opp  : 'lower-level-one/gymnasium.html',//2.000.000
 					pointer_pos : [515.9, 495],
 					first_point : [693.8, 167.7],
 					sceneFunc: function(ctx) 
@@ -133,6 +133,66 @@
 						align: 'center'            
 					}        
 				}    ,  
+
+				{
+					//==================================
+					// Basic settings
+					//==================================
+					name        : 'C',
+					naming_opp  : 'lower-level-one/dining-commons.html',
+					pointer_pos : [350, 580],
+					first_point : [693.8, 167.7],
+					sceneFunc: function(ctx) 
+					{
+						ctx.moveTo(284,484.5);
+						ctx.lineTo(425,484.5);
+						ctx.lineTo(425,682.5);
+						ctx.lineTo(286.215,682.5);
+						ctx.lineTo(284,484.5);
+						
+					}
+						,
+					fill        : 'rgba(170,255,0,0.3)',
+					stroke      : '#EA7D1A',
+					strokeWidth : 1,       
+
+					//==================================
+					// Tooltip settings
+					//==================================
+					tooltip     : {                
+						text: 'Dining Commons',
+						fontSize: 12,                         
+						align: 'center'            
+					}
+				},
+
+				//TITLE 2,500,000
+				{
+					name        : '101',
+					naming_opp  : 'lower-level-one/main-2500000.html',
+					pointer_pos : [9999, 9999],
+					first_point : [9999, 9999],
+					sceneFunc: function(ctx) 
+					{
+					   ctx.moveTo(0,0);
+					  ctx.lineTo(0,0);
+					}
+						,
+					fill        : 'rgba(0,0,0,0)',
+					stroke      : '#000000',
+					strokeWidth : 0,
+
+					//==================================
+					// Tooltip settings
+					//==================================
+					tooltip     : {                
+						text: '<span>$100,000</span>',
+						fontSize: 1,
+						align: 'center'            
+					}        
+				}    , 
+
+
 				{
 					//==================================
 					// Basic settings
@@ -912,6 +972,33 @@
 						align: 'center'            
 					}
 				},
+
+				//TITLE 2,500,000
+				{
+					name        : '101',
+					naming_opp  : 'lower-level-one/main-2500000.html',
+					pointer_pos : [9999, 9999],
+					first_point : [9999, 9999],
+					sceneFunc: function(ctx) 
+					{
+					   ctx.moveTo(0,0);
+					  ctx.lineTo(0,0);
+					}
+						,
+					fill        : 'rgba(0,0,0,0)',
+					stroke      : '#000000',
+					strokeWidth : 0,
+
+					//==================================
+					// Tooltip settings
+					//==================================
+					tooltip     : {                
+						text: '<span>$250,000</span>',
+						fontSize: 1,
+						align: 'center'            
+					}        
+				}    , 
+
 				{
 					//==================================
 					// Basic settings
@@ -943,37 +1030,7 @@
 						align: 'center'            
 					}
 				},
-				{
-					//==================================
-					// Basic settings
-					//==================================
-					name        : 'C',
-					naming_opp  : 'lower-level-one/dining-commons.html',
-					pointer_pos : [350, 580],
-					first_point : [693.8, 167.7],
-					sceneFunc: function(ctx) 
-					{
-						ctx.moveTo(284,484.5);
-						ctx.lineTo(425,484.5);
-						ctx.lineTo(425,682.5);
-						ctx.lineTo(286.215,682.5);
-						ctx.lineTo(284,484.5);
-						
-					}
-						,
-					fill        : 'rgba(170,255,0,0.3)',
-					stroke      : '#EA7D1A',
-					strokeWidth : 1,       
-
-					//==================================
-					// Tooltip settings
-					//==================================
-					tooltip     : {                
-						text: 'Dining Commons',
-						fontSize: 12,                         
-						align: 'center'            
-					}
-				},
+				
 				{
 					//==================================
 					// Basic settings
@@ -1000,11 +1057,12 @@
 					// Tooltip settings
 					//==================================
 					tooltip     : {                
-						text: 'Chapel',
+						text: 'Chapel(reserved)',
 						fontSize: 12,                         
 						align: 'center'            
 					}
 				},
+				
 				{
 					//==================================
 					// Basic settings

@@ -62,7 +62,7 @@
                     //==================================
                     name        : '3',
                     naming_opp  : 'cafeteria-building/b.bookstore.html',                    
-                    external_link: 'dining-hall.php',
+                    external_link: 'lower-school-main-level.php',
                     pointer_pos : [317.4, 204.7],
                     sceneFunc: function(ctx) 
                     {
